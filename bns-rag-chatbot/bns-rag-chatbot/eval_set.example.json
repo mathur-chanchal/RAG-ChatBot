@@ -1,0 +1,5 @@
+[
+  {"question": "What is the punishment for murder?", "expected_sections": ["103"]},
+  {"question": "How is theft defined?", "expected_sections": ["303"]},
+  {"question": "What is the right of private defence of the body?", "expected_sections": ["34", "35"]}
+]
